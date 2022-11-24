@@ -1,2 +1,3 @@
-# dio-desafio-githhub-primeiro-repitorio
-Desafio de projeto git/github
+repositorio de desafio de projeto sobre git/github
+Desafio de projeto git/github   
+#contratodecompromisso
